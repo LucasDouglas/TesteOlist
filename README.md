@@ -1,10 +1,12 @@
 # TesteOlist
 
 Descrição do projeto :
+
   -O projeto consiste em um CRUD(Create Read Update Delete) com a capacidade de se conectar com o banco de dados e ler um arquivo .CSV para inserção de dados nas tabelas do banco.
 
 
 Versão do python utlizada:
+
  - Python 3.7
 
 Banco de dados utilizado SQL Server versão utilizada:
@@ -12,9 +14,13 @@ Banco de dados utilizado SQL Server versão utilizada:
 
  Configuração de conexão com o banco de dados:
    -Comando para instalação da biblioteca de conexão "pip install pyodbc"
+
    -download do driver de conexão : https://docs.microsoft.com/pt-br/sql/connect/python/pyodbc/python-sql-driver-pyodbc?view=sql-server-2017
+
    Habilitar o banco de dados para utilização com o Python:
+
     -Acessar o administrador de fonte de dados no Windons
+
     -Caso a opção SQL esteja ativida o Banco está pronto para a conexão, caso não esteja configurar o mesmo na opção "adicionar"
 
 Configuração do Pandas
@@ -22,7 +28,9 @@ Configuração do Pandas
 
  Descrição do ambiente:
    -Windowns 10
+
    -Desktop Core i5, 8 GB de memória ram, SSD 256 GB
+
    -Editor de texto Visual Studio Code
 
 Breve relato sobre o desafio:
